@@ -7,6 +7,7 @@ functional and secure at each step. Below is an introduction and a breakdown of 
 
 ![demo](%20CiberM4B3.png)
 
+
 ### **Introduction**
 This Jenkins pipeline automates the following CI/CD processes for an application:
 
@@ -70,3 +71,5 @@ The pipeline employs a layered security approach:
 
 ### **Conclusion**
 This Jenkins pipeline automates a complete CI/CD process, with a strong emphasis on security at both the code and runtime levels. It ensures that only secure and stable Docker images are deployed to Kubernetes, providing confidence in both the functionality and security of the application throughout its lifecycle.
+
+
