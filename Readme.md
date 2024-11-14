@@ -5,7 +5,7 @@ This Jenkins pipeline is a comprehensive CI/CD pipeline designed for building, t
 The pipeline integrates various stages of software development, security testing, and deployment, ensuring that the application is both 
 functional and secure at each step. Below is an introduction and a breakdown of its key components:
 
-![demo](%20CiberM4B3.png)
+![demo](/img/CiberM4B3.png)
 
 
 ### **Introduction**
